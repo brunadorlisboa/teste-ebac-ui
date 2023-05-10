@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Sophia",
+        "sobrenome": "Lisboa",
+        "empresa": "Bukinha",
+        "endereco": "Av Fagundes",
+        "numero": "519",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "09950300",
+        "telefone": "55602040",
+        "email": "sophiadlf@gmail.com"
+
+    },
+
+    {
+        "nome": "Bruno",
+        "sobrenome": "Lisboa",
+        "empresa": "Google",
+        "endereco": "Av ibirapuera",
+        "numero": "2501",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "04451300",
+        "telefone": "56854540",
+        "email": "brunodlf@gmail.com"
+    },
+
+    {
+        "nome": "Edson",
+        "sobrenome": "Ferreira",
+        "empresa": "Betao",
+        "endereco": "Rua Romilda",
+        "numero": "42",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "04470150",
+        "telefone": "56123652",
+        "email": "edsondlf@gmail.com"
+    }
+]
